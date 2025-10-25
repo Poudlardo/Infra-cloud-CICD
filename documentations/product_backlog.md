@@ -54,9 +54,9 @@ Déployer une instance de [PythonCMS](https://github.com/shopyo/pythoncms) dans 
 ### Déterminer les besoins
 - [x] Mettre en place un repo Gitlab
 - [x] Dessiner le schéma d'infrastructure sur Excalidraw.io
-- [ ] product_backlog.md
-- [ ] Écrire le backlog sur Taiga
-- [ ] Écrire le README.md
+- [x] product_backlog.md 
+- [x] Écrire le product backlog sur Taiga
+- [x] Écrire le README.md
 
 ### Préparer mon infrastructure
 - [ ] Coder un script pour déployer un VPS sur OVH avec OpenTofu
