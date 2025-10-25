@@ -89,4 +89,4 @@ Déployer une instance de [PythonCMS](https://github.com/shopyo/pythoncms) dans 
 ## **5. Infrastructure**
 
 ### **Schéma d’architecture**
-![Schéma d’architecture][./checkpoint 4.excalidraw.png]
+![Schéma d’architecture][checkpoint 4.excalidraw.png]
